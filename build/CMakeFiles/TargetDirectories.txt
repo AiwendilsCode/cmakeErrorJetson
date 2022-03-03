@@ -1,0 +1,3 @@
+/home/jetson/Desktop/testLibtorch/cpp/build/CMakeFiles/edit_cache.dir
+/home/jetson/Desktop/testLibtorch/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/jetson/Desktop/testLibtorch/cpp/build/CMakeFiles/testLibtorch.dir
